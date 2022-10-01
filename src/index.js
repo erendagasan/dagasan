@@ -17,6 +17,10 @@ const App = () => (
     width={widgetW}
     height={widgetH}
     locale="tr"
+    show_popup_button={true}
+    details={true}
+    hotlist={true}
+    calendar={true}
   />
 );
 
