@@ -11,7 +11,7 @@ let widgetH = window.innerHeight + "px";
 const App = () => (
 
   <TradingViewWidget
-    symbol="NASDAQ:AAPL"
+    symbol="BIST:XU100"
     theme={Themes.LIGHT}
     hide_side_toolbar={false}
     width={widgetW}
